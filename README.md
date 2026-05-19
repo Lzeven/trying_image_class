@@ -1,0 +1,1 @@
+# trying_image_class
